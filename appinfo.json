@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "u5cevryday@hotmail.com",
+    "longName": "FirstWF",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pikachu.png",
+                "name": "PIKACHU",
+                "type": "png"
+            },
+            {
+                "file": "images/kirby.png",
+                "name": "KIRBYC",
+                "type": "png"
+            },
+            {
+                "file": "images/mariofb.png",
+                "name": "FIREMARIO",
+                "type": "png"
+            },
+            {
+                "file": "images/angrybirdt.png",
+                "name": "ABIRD",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Drawing with markers.ttf",
+                "name": "MARKERS_28",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "FirstWF",
+    "uuid": "1df7786f-9c82-4a4f-b8e6-cc460743f652",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
